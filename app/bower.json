@@ -1,0 +1,22 @@
+{
+  "name": "collaborationsuite",
+  "homepage": "https://github.com/iimagineCode/collaborationsuite",
+  "authors": [
+    "Jared Rainey <jrainey@imagineds.net>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "^1.0.3"
+  }
+}
